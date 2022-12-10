@@ -1,6 +1,6 @@
 <html>
     <header style="background-color:black">
-        <img src="pngwing.com.png" height="50px"/>
+        <img src="OhikoKobayashi.github.io/site1/images/cs.png" height="50px"/>
         <a href="https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B5%D0%B2%D1%8B%D0%B5_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B0" style="color:white">История</a>
     </header>
     <main style="background-color:lightgray">
